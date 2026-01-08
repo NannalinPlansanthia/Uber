@@ -62,6 +62,6 @@ The four clusters share the following common characteristics:
 ## References
 1. NYC Open Data. (2024).  2023 High Volume FHV Trip Data.  Retrieved December 30, 2025, from <https://data.cityofnewyork.us/Transportation/2023-High-Volume-FHV-Trip-Data/u253-aew4/about_data>
 2. NYC Taxi & Limousine Commission. (n.d.).  TLC Trip Record Data. Retrieved December 30, 2025, from <https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page>
-3. scikit-learn.  (n.d.).  Selecting the number of clusters with silhouette analysis on KMeans clustering.  Retrieved January 7, 2026, from <https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html>    
+3. Scikit-learn.  (n.d.).  Selecting the number of clusters with silhouette analysis on KMeans clustering.  Retrieved January 7, 2026, from <https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html>    
 
 
